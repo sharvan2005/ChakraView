@@ -33,3 +33,10 @@ An IoT-based smart occupancy detection system using Arduino Uno and ESP8266.
 
 ## System in Action
 ![System in Action](Media/system_in_action.jpg)
+
+*Live system demonstrating real-time occupancy detection and dashboard updates across laptop and mobile.*
+
+## System Architecture
+- Arduino Uno: Sensor acquisition and real-time control logic
+- ESP8266: WiFi connectivity and Blynk dashboard integration
+
