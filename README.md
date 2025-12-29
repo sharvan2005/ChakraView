@@ -20,7 +20,14 @@ An IoT-based smart occupancy detection system using Arduino Uno and ESP8266.
 ## Folder Structure
 - Arduino/ → Sensor, control & actuation logic
 - ESP8266/ → WiFi + Blynk dashboard bridge
-
+  
 ## Notes
 - Replace WiFi and Blynk credentials before uploading
 - Serial communication is used between Arduino and ESP8266
+
+## Future Improvements
+- Replace serial communication with MQTT
+- Add cloud data logging
+- Implement OTA firmware updates
+- Improve power efficiency
+
