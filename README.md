@@ -31,3 +31,5 @@ An IoT-based smart occupancy detection system using Arduino Uno and ESP8266.
 - Implement OTA firmware updates
 - Improve power efficiency
 
+## System in Action
+![System in Action](Media/system_in_action.jpg)
